@@ -7,3 +7,7 @@ h1 {
 p {
   color: white;
 }
+.element {
+  max-width: fit-content;
+  margin-inline: auto;
+}
