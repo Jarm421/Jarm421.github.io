@@ -1,13 +1,9 @@
 body {
-  background-color: darkgrey;
+  background-color: #2e2e2e;
 }
 h1 {
-  color: white;
+  color: white:;
 }
 p {
   color: white;
-}
-.element {
-  max-width: fit-content;
-  margin-inline: auto;
 }
